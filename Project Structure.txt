@@ -1,0 +1,4 @@
+mitm-detector/
+│── detect_mitm.py   # Python script for detecting MITM
+│── capture.pcap     # Sample packet capture file
+│── README.md        # Project documentation
